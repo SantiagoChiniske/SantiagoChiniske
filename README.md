@@ -44,4 +44,4 @@ Estou na área da Tecnologia a 3 anose tenho começado a produzir alguns projeto
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=SantiagoChiniske&theme=monokai&border=false&include_all_commits=false&count_private=false"  width="364px" />    ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=SantiagoChiniske&theme=monokai&border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=SantiagoChiniske&theme=monokai&border=false&include_all_commits=false&count_private=false"  width="364px" height="170px"/>    ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=SantiagoChiniske&theme=monokai&border=false&include_all_commits=false&count_private=false&layout=compact )
