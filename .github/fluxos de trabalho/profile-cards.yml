@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Gerar calendário de contribuições
+      - name: Gerar cards do perfil
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,5 +25,4 @@ jobs:
           cards: contributions
           output-dir: assets
           themes: light,dark
-          palette: green
           commit: true
