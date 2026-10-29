@@ -78,9 +78,17 @@ Atualmente foco no desenvolvimento Full Stack, criando aplicações escaláveis 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
