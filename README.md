@@ -108,11 +108,24 @@ Projeto de aplicação voltado ao contexto de gerenciamento de clínica.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github"
+          height="180"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+          height="180"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -133,13 +146,6 @@ Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer nov
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://portfolio-santiago-chiniske.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-Visitar-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/SantiagoChiniske">
-  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
