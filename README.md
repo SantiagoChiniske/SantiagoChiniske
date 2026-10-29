@@ -105,6 +105,24 @@ Projeto de aplicação voltado ao contexto de gerenciamento de clínica.
 
 ---
 
+
+## 📅 Meu Calendário de Contribuições
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      alt="Calendário de contribuições do GitHub"
+      width="100%"
+    />
+  </picture>
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
