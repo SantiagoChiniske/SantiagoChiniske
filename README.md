@@ -1,99 +1,154 @@
-# 👋 Olá, eu sou Santiago Chiniske
-
-💻 Desenvolvedor de Software apaixonado por tecnologia, automação e desenvolvimento de aplicações web.
-
-Atuo na área de Tecnologia da Informação há mais de 5 anos e venho expandindo constantemente meus conhecimentos em desenvolvimento de software, arquitetura de sistemas, automação de processos e boas práticas de engenharia.
-
-Atualmente foco no desenvolvimento Full Stack, criando aplicações escaláveis e modernas utilizando tecnologias como React, Node.js, Java Spring Boot e Python.
-
----
-
-## 🚀 Sobre Mim
-
-- 🔭 Desenvolvendo projetos Full Stack
-- 🌱 Aprimorando conhecimentos em Arquitetura de Software e Cloud
-- 🐍 Automatizando processos com Python
-- ⚡ Entusiasta de tecnologia, inovação e aprendizado contínuo
-- 📚 Sempre estudando novas ferramentas e boas práticas de desenvolvimento
-
----
-
-# 💻 Tech Stack
-
-## 🎨 Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7E13F8?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-## ⚙️ Back-end
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 🛠 Linguagens & Tecnologias
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🗄 Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🔧 Ferramentas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🌎 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
+# 👋 Olá, eu sou Santiago Chiniske!
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Linguagens mais utilizadas"
-  />
+### Desenvolvedor Full Stack | Java • Spring Boot • React
+
+Desenvolvimento de software, automação de processos e soluções que geram valor.
+
+<br/>
+
+<a href="https://github.com/SantiagoChiniske">
+  <img src="https://img.shields.io/badge/GitHub-SantiagoChiniske-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/santiago-chiniske-pereira-1402b5212/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://portfolio-santiago-chiniske.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 💡 Frase que me define
+## 🚀 Sobre mim
 
-> "Tecnologia é sobre resolver problemas, automatizar processos e criar soluções que geram valor."
+Sou profissional de Tecnologia da Informação há mais de 5 anos, com experiência em suporte, infraestrutura, automação de processos e desenvolvimento de soluções tecnológicas.
+
+Atualmente, direciono minha carreira para o desenvolvimento de software Full Stack, com foco em **Java, Spring Boot e React**.
+
+Gosto de transformar problemas reais em soluções através da tecnologia, desenvolvendo aplicações, integrando APIs e automatizando processos para melhorar a eficiência das operações.
+
+- ☕ Aprofundando conhecimentos em Java e Spring Boot.
+- ⚛️ Desenvolvendo aplicações web com React.
+- 🔗 Construindo APIs REST e integrações entre sistemas.
+- 🐍 Desenvolvendo automações e API utilizando Python.
+- 🐘 Trabalhando com PostgreSQL e modelagem de dados.
+- 🐳 Estudando containerização e ambientes com Docker.
+- 📚 Aprimorando conhecimentos em arquitetura de software, Clean Code e testes automatizados.
+
+---
+
+## 💻 Tecnologias e ferramentas
+
+### 🎨 Front-end
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
+</div>
+
+### ⚙️ Back-end
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" />
+</div>
+
+### 🗄️ Banco de dados
+
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</div>
+
+### 🛠️ Ferramentas e ambiente
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,linux,vscode,idea" />
+</div>
+
+---
+
+## ⭐ Projetos em destaque
+
+Alguns projetos que representam minha jornada de aprendizado e desenvolvimento:
+
+### ☕ [Library API](https://github.com/SantiagoChiniske/Library-API)
+
+API desenvolvida com Java e Spring Boot, explorando conceitos de desenvolvimento backend, arquitetura em camadas, persistência de dados, autenticação e segurança.
+
+**Tecnologias:** Java • Spring Boot • Spring Security • Spring Data JPA
+
+### 📦 [Controle de Estoque](https://github.com/SantiagoChiniske/controle_estoque)
+
+Aplicação Full Stack para gerenciamento de estoque, integrando frontend e backend.
+
+**Tecnologias:** React • Node.js • JavaScript
+
+### 🎨 [Portfolio](https://github.com/SantiagoChiniske/Portfolio)
+
+Projeto de portfólio pessoal desenvolvido para apresentar meus conhecimentos, projetos e trajetória profissional.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+### 💰 [Cofrinho](https://github.com/SantiagoChiniske/Cofrinho)
+
+Projeto desenvolvido em Java para praticar lógica de programação e conceitos da linguagem.
+
+**Tecnologia:** Java
+
+### 🏥 [Clínica](https://github.com/SantiagoChiniske/clinica)
+
+Projeto de aplicação voltado ao contexto de gerenciamento de clínica.
+
+**Tecnologia:** JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SantiagoChiniske&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoChiniske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoChiniske&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌎 Vamos nos conectar?
+
+Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de desenvolvimento de software.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santiago-chiniske-pereira-1402b5212/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-santiago-chiniske.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-Visitar-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/SantiagoChiniske">
+  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Minha filosofia
+
+*"Tecnologia é sobre resolver problemas, automatizar processos e criar soluções que geram valor."*
+
+</div>
